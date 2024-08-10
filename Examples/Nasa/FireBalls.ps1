@@ -1,4 +1,4 @@
-try {. $PSScriptRoot\..\..\LoadPSD1.ps1} catch {}
+# try {. $PSScriptRoot\..\..\LoadPSD1.ps1} catch {}
 
 $header = echo `
     'Date/Time - Peak Brightness (UT)' `
